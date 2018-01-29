@@ -6,7 +6,7 @@ import {
   CREATE,
   UPDATE,
   DELETE
-} from 'admin-on-rest/lib/rest/types'
+} from 'react-admin/lib/rest/types'
 import debug from 'debug'
 import diff from 'object-diff'
 
